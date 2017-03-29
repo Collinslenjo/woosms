@@ -24,4 +24,4 @@ Get notified via SMS after placing an order as a Buyer and seller. SMS notificat
 * Directly contact with buyer via SMS.
 
 ## Coming soon Features
-* more popular gateways ( Twillio, Nexmo, SMS Global )
+* more popular gateways ( Twillio, Clickatel,TalkwithText, Nexmo, SMS Global )
