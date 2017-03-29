@@ -1,4 +1,5 @@
 <?php
+
 /**
  * SMS Gateway handler class
  *
@@ -15,13 +16,13 @@ class SatSMS_SMS_Gateways {
 
         return self::$_instance;
     }
-
 /**
  * Sends SMS via AfricasTalking api
  *
  * @param type $sms_data
  * @return boolean
  */
+
 function AfricasTalking( $sms_data ) {
 
 $response = false;

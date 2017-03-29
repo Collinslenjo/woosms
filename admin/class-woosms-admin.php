@@ -20,6 +20,7 @@
  * @subpackage Woosms/admin
  * @author     Collins Lenjo <collinslenjo.cl@gmail.com>
  */
+require_once('ordersms/classes/AfricasTalkingGateway.php');
 class Woosms_Admin {
 
 	/**

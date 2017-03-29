@@ -1,5 +1,5 @@
 <?php
-require_once('AfricasTalkingGateway.php');
+//require_once('AfricasTalkingGateway.php');
 $username = satosms_get_option( 'africastalking_name', 'satosms_gateway', '' );
 $apikey = satosms_get_option( 'africastalking_api', 'satosms_gateway', '' );
 if (isset($_POST['number']) && isset($_POST['text'])){$Err = $results;} else {$Err = "";}
