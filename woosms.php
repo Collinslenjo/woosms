@@ -38,7 +38,7 @@ function activate_woosms() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-woosms-activator.php';
 	Woosms_Activator::activate();
 }
-require_once 'admin/ordersms/sat-wc-order-sms.php';
+include 'admin/ordersms/sat-wc-order-sms.php';
 /**
  * The code that runs during plugin deactivation.
  * This action is documented in includes/class-woosms-deactivator.php

@@ -128,7 +128,7 @@ body {
 .error{color: orange;}
 </style>
 <?php
-require_once 'AfricasTalkingApi.php';
+include 'AfricasTalkingApi.php';
 //Top statement
 $africastalking_helper = sprintf( 'Fill the form below to send a message to the receipent <br/>Please fill in the  <a href="%s">%s</a> before using this form', 'admin.php?page=sat-order-sms-notification-settings', 'settings');
 //Logic to send sms from this page
