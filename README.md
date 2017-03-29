@@ -23,5 +23,5 @@ Get notified via SMS after placing an order as a Buyer and seller. SMS notificat
 * Admin can force  buyer to get sms notifications.
 * Directly contact with buyer via SMS.
 
-##Coming soon Features
+## Coming soon Features
 * more popular gateways ( Twillio, Nexmo, SMS Global )

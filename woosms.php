@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       WooSMS
  * Plugin URI:        https://github.com/Collinslenjo/woosms
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Get notified via SMS after placing an order as a Buyer and seller. Also send messages to your customer.
  * Version:           1.0.0
  * Author:            Collins Lenjo
  * Author URI:        http://collinslenjo.co.nf
