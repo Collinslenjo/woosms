@@ -1,0 +1,41 @@
+[
+    {
+        "name": "infobip/oneapi",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/infobip/oneapi-php.git",
+            "reference": "d62a9515718f4dafa359cf97dff57519650c4cbb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/infobip/oneapi-php/zipball/d62a9515718f4dafa359cf97dff57519650c4cbb",
+            "reference": "d62a9515718f4dafa359cf97dff57519650c4cbb",
+            "shasum": ""
+        },
+        "time": "2015-03-30 15:41:19",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "infobip\\": "oneapi/",
+                "infobip\\models\\": "oneapi/models/",
+                "infobip\\models\\iam\\": "oneapi/models/iam/",
+                "infobip\\models\\two_factor_authentication\\": "oneapi/models/two_factor_authentication/",
+                "infobip\\utils\\": "oneapi/utils/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Miroslav Milivojevic",
+                "email": "Miroslav.Milivojevic@infobip.com"
+            }
+        ],
+        "description": "Infobip OneAPI library for PHP"
+    }
+]
