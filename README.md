@@ -1,4 +1,4 @@
-# Africastalking WooSms Notification and Messaging WordPress Plugin - WooCommerce
+# Africastalking[https://africastalking.com] WooSms Notification and Messaging WordPress Plugin - WooCommerce
 
 This is a WooCommerce add-on. By Using this plugin admin and buyer can get notification about their order via sms using different SMS gateways.
 
